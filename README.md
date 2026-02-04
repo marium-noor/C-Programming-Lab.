@@ -14,3 +14,6 @@ Each lab folder contains:
 - Programs based on the concepts covered in that lab
 - Proper use of variables, loops, conditions, functions, and arrays (as applicable)
 
+## My favourite programming languages:
+- C - Because it teaches everything in deep which gives confidence in fundamentals
+- Python - Because of it's user friendly syntax, and extensive use in AI industry.
